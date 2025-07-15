@@ -1,3 +1,4 @@
+<img src="https://resources.axonex.top/img/AxoNex_sized.png" alt="零叁弦主页" width="256" height="111">
 
 ## Github Tips
 🔭 I’m currently working on -> Internet service development
@@ -12,8 +13,7 @@
 零叁弦主页 (Home Page) -> [https://axonex.top](https://axonex.top)
 
 ## Social links
-![零叁弦主页](https://resources.axonex.top/img/AxoNex_sized.png")
-![零叁弦〇互联](https://resources.axonex.top/img/N3X0_sized.png")
+<img src="https://resources.axonex.top/img/N3X0_sized.png" alt="零叁弦〇互联" width="256" height="111">
 
 <!--
 **AxoNex/AxoNex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
