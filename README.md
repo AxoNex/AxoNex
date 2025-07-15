@@ -1,16 +1,17 @@
-## 零弦驿
 
-
-# Github Tips
+## Github Tips
 🔭 I’m currently working on -> Internet service development
+
 🌱 I’m currently learning -> C++, Python, php, HTML, CSS, JavaScript
+
 📫 How to reach me -> mail@axonex.top
 
-# My Main Sites
+## My Main Sites
 零叁弦〇互联 (N3X0) -> [https://n3x0.axonex.top](https://n3x0.axonex.top)
+
 零叁弦主页 (Home Page) -> [https://axonex.top](https://axonex.top)
 
-# Social links
+## Social links
 ...
 
 <!--
