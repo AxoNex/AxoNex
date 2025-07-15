@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning -> C++, Python, php, HTML, CSS, JavaScript
 
-📫 How to reach me -> mail@axonex.top
+📫 How to reach me -> mail@axonex.top or axonex@163.com
 
 ## My Main Sites
 零叁弦〇互联 (N3X0) -> [https://n3x0.axonex.top](https://n3x0.axonex.top)
