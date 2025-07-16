@@ -12,6 +12,8 @@
 
 零叁弦主页 (Home Page) -> [https://axonex.top](https://axonex.top)
 
+零叁弦〇互联服务接口 (N3X0 API) -> [https://api.axonex.top](https://api.axonex.top)
+
 ## Social links
 <a href="https://n3x0.axonex.top"><img src="https://resources.axonex.top/img/N3X0_sized.png" alt="零叁弦〇互联" width="256" height="111"></a>
 
